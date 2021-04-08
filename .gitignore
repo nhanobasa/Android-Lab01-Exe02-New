@@ -1,0 +1,6 @@
+# Created by .ignore support plugin (hsz.mobi)
+
+# Project exclude paths
+/.gradle/
+/app/build/
+/app/build/intermediates/javac/debug/classes/
